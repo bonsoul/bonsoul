@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **bonsoul/bonsoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: https://twitter.com/bonsoul_ke
 - 😄 Pronouns: (MR/HE/HIS)
-- ⚡ Fun fact: I know Spanish.
--->
+- ⚡ Fun fact: Soy habla Espanol!
+
