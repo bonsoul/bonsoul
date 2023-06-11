@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with breaking technical concepts
 - 💬 Ask me about anything
 - 📫 How to reach me: https://twitter.com/bonsoul_ke
+-                     https://www.linkedin.com/in/b-b-arani-510a97203/
 - 😄 Pronouns: (MR/HE/HIS)
 - ⚡ Fun fact: Soy habla Espanol!
 
