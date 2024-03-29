@@ -8,7 +8,7 @@ _This is Bonsoul, a Data Analyst and Scientist with expertise in Excel, SQL, Tab
 - 🤔 I’m looking for help with breaking technical concepts
 - 💬 Ask me about anything
 - 📫 How to reach me: https://twitter.com/bonsoul_ke
--                     https://www.linkedin.com/in/b-b-arani-510a97203/
+-                     [https://www.linkedin.com/in/b-b-arani-510a97203/](https://www.linkedin.com/in/bosirearani/)
 - 😄 Pronouns: (MR/HE/HIS)
 - ⚡ Fun fact: Soy habla Espanol!
 
