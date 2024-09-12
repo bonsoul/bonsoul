@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonsoul&label=Profile%20views&color=0e75b6&style=flat" alt="bonsoul" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bonsoul_ke" target="blank"><img src="https://img.shields.io/twitter/follow/bonsoul_ke?logo=twitter&style=for-the-badge" alt="bonsoul_ke" /></a> </p>
 
 - 🔭 I’m currently working on [Classification using Pytorch](https://colab.research.google.com/drive/1ZlcHCghfWjS3_GSJvsRHAe9dTALne3-4?usp=drive_link)
 
