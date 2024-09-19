@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm Bonsoul Arani</h1>
+<h1 align="center">Hi 👋, I'm Bonsoul Arani :black_joker: </h1>
 <h3 align="center">Data Scientist with experience in machine learning, statistical analysis, and deploying scalable Python solutions.Proficient in Excel, SQL, Tableau, and Power BI. Currently expanding my expertise in Machine Learning, aiming to specialize in AI Engineering, particularly in Computer Vision and Natural Language Processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonsoul&label=Profile%20views&color=0e75b6&style=flat" alt="bonsoul" /> </p>
 
 
-- 🔭 I’m currently working on [Classification using Pytorch](https://colab.research.google.com/drive/1ZlcHCghfWjS3_GSJvsRHAe9dTALne3-4?usp=drive_link)
+- 🔭 I’m currently working on [Classification using Pytorch](https://www.learnpytorch.io/02_pytorch_classification/)
 
 - 🌱 I’m currently learning **Deep Learning Using PyTorch**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/bonsoul](https://www.datascienceportfol.io/bonsoul)
+- 👨‍💻 All of my projects are available at [Datascienceportfol.io](https://www.datascienceportfol.io/bonsoul)
 
-- 📝 I regularly write articles on [https://medium.com/@bonsoul24](https://medium.com/@bonsoul24)
+- 📝 I regularly write articles on [MEDIUM](https://medium.com/@bonsoul24)
 
 - 💬 Ask me about **Data**
 
 - 📫 How to reach me **bonsoul24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JkklAmWYsRVzr9y5KjLZlB8NtF09v8q-/view?usp=drive_link](https://drive.google.com/file/d/1JkklAmWYsRVzr9y5KjLZlB8NtF09v8q-/view?usp=drive_link)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/bosirearani/)
 
 - ⚡ Fun fact **I habla Espanol**
+
+-  A **GAMBIT**   :chess_pawn:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
