@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonsoul&label=Profile%20views&color=0e75b6&style=flat" alt="bonsoul" /> </p>
 
 
-- 🔭 I’m currently  and learning working on [Prompt Engineering]([https://www.learnpytorch.io/02_pytorch_classification/](https://learn.deeplearning.ai/courses/chatgpt-building-system/lesson/1/introduction))
+- 🔭 I’m currently  and learning working on [Prompt Engineering] ([https://www.learnpytorch.io/02_pytorch_classification/](https://learn.deeplearning.ai/courses/chatgpt-building-system/lesson/1/introduction))
 
 - 👨‍💻 All of my projects are available at [Datascienceportfol.io](https://www.datascienceportfol.io/bonsoul)
 
