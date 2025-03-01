@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bonsoul24@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/bosirearani/)
+- 📄 Know about my experiences [Portfolio](https://bonsoul.github.io/portifolio/)
 
 - ⚡ Fun fact **I habla Espanol**
 
