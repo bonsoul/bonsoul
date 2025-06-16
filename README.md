@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bonsoul Arani :black_joker: </h1>
+<h1 align="center">Hola 👋, I'm Bonsoul Arani :black_joker: </h1>
 <h3 align="center">Data Scientist with experience in machine learning,aiming to specialize in AI Engineering, particularly in Computer Vision and Natural Language Processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonsoul&label=Profile%20views&color=0e75b6&style=flat" alt="bonsoul" /> </p>
