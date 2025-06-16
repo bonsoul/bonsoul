@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Bonsoul Arani :black_joker: </h1>
-<h3 align="center">Data Scientist with experience in machine learning,aiming to specialize in AI Engineering, particularly in Computer Vision and Natural Language Processing.</h3>
+<h3 align="center">Data Scientist with practical experience in machine learning, statistical modeling, and data analysis across public health, logistics, and NGO sectors. Currently advancing toward AI Engineering, with a strong interest in developing solutions in Computer Vision and Natural Language Processing. Demonstrated ability to build deep learning models, automate workflows, and deliver insights that drive programmatic and operational impact..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonsoul&label=Profile%20views&color=0e75b6&style=flat" alt="bonsoul" /> </p>
 
