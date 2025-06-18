@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonsoul&label=Profile%20views&color=0e75b6&style=flat" alt="bonsoul" /> </p>
 
 
-- 🔭 I’m currently  and learning working on [Transfer Learning for Computer Vision](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+- 🔭 I’m currently  and learning working on [Data Engineering @ Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark)
 
 - 📝 I regularly write articles on [MEDIUM](https://medium.com/@bonsoul24)
 
