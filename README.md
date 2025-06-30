@@ -16,8 +16,11 @@
 
 - ⚽ Liverpool FC fan ~ You’ll Never Walk Alone(YWNA) 🙌 &  🏎️ Formula 1 fan Max Verstappen 🏁
 
--  A **GAMBIT**   :chess_pawn:
+-  A **GAMBIT**   :chess_pawn: 🏊
 
+-  ➕ = :heart:
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bonsoul_ke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bonsoul_ke" height="30" width="40" /></a>
