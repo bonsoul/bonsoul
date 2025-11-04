@@ -2,7 +2,7 @@
 
 <h2 align="center" style="font-size:10px;"><i>Turning data into decisions that drive impact,innovation.</i></h2>
 
-<h3 align="left">I am a data scientist who transforms data into actionable insights through machine learning, visualization, and statistical modeling. With experience across business, public health, logistics, and research, I develop models, dashboards, and pipelines that drive evidence-based decisions and real-world impact.</h3>
+<h3 align="left">Solving real-world problems through data—transforming raw information into actionable insights using machine learning, statistical modeling, data visualization, and analytics. With experience across business, public health, logistics, and research, I develop predictive models, interactive dashboards, automated data pipelines, and evidence-based strategies that drive smarter decisions and measurable impact.</h3>
 
 
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [MEDIUM](https://medium.com/@bonsoul24)
 
-- 📫 How to reach me **bonsoul24@gmail.com**
+- 📫 How to reach me **arani.bosire.data@gmail.com**
 
 - 📄 Know about my experiences [Portfolio](https://bonsoul.github.io/portifolio/)
 
