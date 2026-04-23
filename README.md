@@ -4,9 +4,9 @@
 
 <h3></h3>
 <ul>
-  <li>Turning raw data into actionable insights</li>
-  <li>Building predictive models and data-driven tools</li>
-  <li>Driving smarter decisions across diverse sectors</li>
+  <li>Dashboards </li>
+  <li>Pipelines </li>
+  <li>Models </li>
 </ul>
 
 
