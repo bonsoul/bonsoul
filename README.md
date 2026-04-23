@@ -2,7 +2,12 @@
 
 <h2 align="center" style="font-size:10px;"><i>Turning data into decisions that drive impact,innovation.</i></h2>
 
-<h3 align="left">Solving real-world problems through data—transforming raw information into actionable insights using machine learning, statistical modeling, data visualization, and analytics. With experience across business, public health, logistics, and research, I develop predictive models, interactive dashboards, automated data pipelines, and evidence-based strategies that drive smarter decisions and measurable impact.</h3>
+<h3></h3>
+<ul>
+  <li>Turning raw data into actionable insights</li>
+  <li>Building predictive models and data-driven tools</li>
+  <li>Driving smarter decisions across diverse sectors</li>
+</ul>
 
 
 
@@ -11,11 +16,7 @@
 
 - 🔭 I’m currently  and learning working on [Data Engineering @ Udemy](https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark)
 
-- 📝 I regularly write articles on [MEDIUM](https://medium.com/@bonsoul24)
-
 - 📫 How to reach me **arani.bosire.data@gmail.com**
-
-- 📄 Know about my experiences [Portfolio](https://bonsoul.github.io/portifolio/)
 
 - ⚡ Fun fact **I habla Espanol**
 
