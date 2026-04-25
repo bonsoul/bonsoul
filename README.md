@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=220&section=header&text=Bonsoul%20Arani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Turning%20Raw%20Data%20into%20Real%20Impact&descAlignY=55&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=220&section=header&text=Bonsoul%20Arani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Turning%20Raw%20Data%20into%20Actionable%20Insights&descAlignY=55&descSize=18" alt="header" />
 </p>
 
 <h3 align="center"><i>Dashboards · Pipelines · Models</i></h3>
